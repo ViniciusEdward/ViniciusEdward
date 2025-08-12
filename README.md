@@ -4,7 +4,7 @@
 📚 Em formação, adquirindo experiência em programação, desenvolvimento web e banco de dados.  
 
 ## Tecnologias que já aprendi:
-- **Python** (lógica de programação, CRUD, automações)
+- **Python** 
 - **HTML5** e **CSS3**
 - **JavaScript**
 - **Banco de Dados** (MySQL)
