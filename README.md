@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Vinicius Edward 👋
 
-<!--
-**ViniciusEdward/ViniciusEdward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do curso Técnico em **Desenvolvimento de Sistemas** no SENAI.  
+📚 Em formação, adquirindo experiência em programação, desenvolvimento web e banco de dados.  
 
-Here are some ideas to get you started:
+## Tecnologias que já aprendi:
+- **Python** (lógica de programação, CRUD, automações)
+- **HTML5** e **CSS3**
+- **JavaScript**
+- **Banco de Dados** (MySQL)
+- **Java** (em processo de aprendizado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+Aplicar meus conhecimentos em projetos práticos, aprimorar minhas habilidades técnicas e contribuir com soluções inovadoras.
+
+📫 **Contato:** Viniciusedward0307@gmail.com
+🌐 **LinkedIn:** 
